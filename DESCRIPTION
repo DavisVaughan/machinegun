@@ -1,0 +1,12 @@
+Package: machinegun
+Version: 0.0.0.9000
+Title: Provision Cloud Machines Preloaded With 'Docker' 
+Description: Create instances of cloud machines from a number of providers,
+  including AWS, Digital Ocean, Google Cloud Compute and Micosoft Azure, all
+  within the unified framework of 'docker-machine'. Additionally, Docker is 
+  loaded onto the provisioned machines.
+Authors@R: person("Davis", "Vaughan", , "dvaughan1130@gmail.com", c("aut", "cre"))
+License: MIT
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
