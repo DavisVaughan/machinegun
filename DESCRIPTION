@@ -10,3 +10,7 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
+Imports: 
+    processx
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
